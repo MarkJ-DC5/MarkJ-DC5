@@ -38,23 +38,48 @@
 Note: This section is still being constructed. If you would like more information, feel free to connect with me. Thank you for understanding ❤️
 
 ## Image CLassification
+
 ### Skin Cancer Classification
-**Description:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Short Description of the Project <br>
-**Challenge :**<br>
-&nbsp;&nbsp;&nbsp;&nbsp; The main challenge with the project is having a dataset that is greatly imabalanced causing the model to have a weak ability in differentiating each type of skin cancer. I balanaced the dataset resulting to 1,500 images per class by downsampling the classes containings images more than 1,500, and augmenting the images per class to increase the size and reach the target number of images of class which is 1,500. 
-&nbsp;&nbsp;&nbsp;&nbsp; Another challenege is that visually, it is already hard to distingues between the different classes of skin cancer, thus a simple Neural Network does not work. Thus, I use the concept of transfer learning which utlizes a model
-### Laboratory Apparatus Classification
-**Description:** <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Short Description of the Project <br>
+
+> **Keywords**: Deep Learning | Computer Vision | Convolutional Neural Network (CNN) | HAM10000 | Pre-Augmentation | Transfer learning | EfficientNetV2 | Soft-Attention | [View Source](https://github.com/MarkJ-DC5)
+>
+
+* **Skin cancer is the most widespread form of cancer**, with melanoma being its deadliest variant, responsible for 75% of skin cancer-related deaths. Early detection is paramount for effective treatment and positive outcomes.
+
+* In this project, I developed a ***Deep Convolutional Neural Network (CNN) Model*** capable of classifying ***7 types of skin cancer***, achieving an ***87% accuracy*** and demonstrating strong class discrimination with an ***0.97 AUC***.
+
+* The [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) dataset by Tschandl, P., Rosendahl, C., & Kittler, H., consisting of 10,015 dermoscopic images, was used for model training and validation. ***Downsampling and Pre-Augmentation*** were performed to address the dataset's significant imbalance.
+
+* ***Transfer learning*** techniques were employed to achieve optimal performance while minimizing training time. [EfficientNetV2](https://arxiv.org/abs/2104.00298) was the chosen pre-trained CNN architecture due to striking the *best balance between model performance and hardware usage*, as determined through testing.
+
+* Additionally, the concept of [Soft-Attention](https://arxiv.org/pdf/2105.03358.pdf), based on the study of Datta et al., was implemented to ***visualize the area of focus of model*** when identifying its class.
+
+
+### Skin Cancer Classification
+
+> **Keywords**: Deep Learning | Computer Vision | Convolutional Neural Network (CNN) | HAM10000 | Pre-Augmentation | Transfer learning | EfficientNetV2 | Soft-Attention | [View Source](https://github.com/MarkJ-DC5)
+>
+
+* **Skin cancer is the most widespread form of cancer**, with melanoma being its deadliest variant, responsible for 75% of skin cancer-related deaths. Early detection is paramount for effective treatment and positive outcomes.
+
+* In this project, I developed a ***Deep Convolutional Neural Network (CNN) Model*** capable of classifying ***7 types of skin cancer***, achieving an ***87% accuracy*** and demonstrating strong class discrimination with an ***0.97 AUC***.
+
+* The [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) dataset by Tschandl, P., Rosendahl, C., & Kittler, H., consisting of 10,015 dermoscopic images, was used for model training and validation. ***Downsampling and Pre-Augmentation*** were performed to address the dataset's significant imbalance.
+
+* ***Transfer learning*** techniques were employed to achieve optimal performance while minimizing training time. [EfficientNetV2](https://arxiv.org/abs/2104.00298) was the chosen pre-trained CNN architecture due to striking the *best balance between model performance and hardware usage*, as determined through testing.
+
+* Additionally, the concept of [Soft-Attention](https://arxiv.org/pdf/2105.03358.pdf), based on the study of Datta et al., was implemented to ***visualize the area of focus of model*** when identifying its class.
+
+
+<!-- ### Laboratory Apparatus Classification  -->
 
 ## Machine Learning
 <!-- ### Customer Segmentation - Clustering Model -->
-#### Algae Count - Regression Model
+### Algae Count - Regression Model
 
 ## Natural Language Processing
-#### Amazon Product Review Spam Detection
-#### Twitter Comment Polarity Prediction 
+### Amazon Product Review Spam Detection
+### Twitter Comment Polarity Prediction 
 
 
 <!-- 
