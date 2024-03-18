@@ -6,7 +6,7 @@ This page is still in progress...
 * 🎓 I hold a **Bachelors Degree in Computer Engineering** at **Mapúa University**,
 * 🌟 Passionate about all things programming and technology.
 * 🧠 Currently immersed in the fascinating world of **Machine Learning** and **Deep Learning**.
-* 👨‍💻 My hobby is coding, which become my job and now I don't have any other hobby 😅
+* 👨‍💻 My hobby is coding, which became my job and now I don't have any other hobby 😅
 
 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markjdc/)
@@ -30,8 +30,70 @@ The following are the tools and frameworks I have used in building my Projects: 
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 
-# 📘 Portfolio Overview
+# 📘 Portfolio Overview 🚧
 
+⚠️ Note: This section is still under construction... If you would like more info about a specific project feel free to connect with me. Thank you ❤️
+
+## Deep Learning
+
+### Skin Cancer Image Classification 
+
+**Description:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Short Description of the Project <br>
+**Challenge :**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; The first problem encountered was solved by this solution <be>
+
+
+### One-Class Convolutional Neural Network
+
+**Description:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Short Description of the Project <br>
+**Challenge :**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; The first problem encountered was solved by this solution <be>
+
+
+### Laboratory Apparatus Image Classification
+
+**Description:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Short Description of the Project <br>
+**Challenge :**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; The first problem encountered was solved by this solution <be>
+
+### Twitter Comment Polarity Identification
+
+**Description:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Short Description of the Project <br>
+**Challenge :**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; The first problem encountered was solved by this solution <be>
+
+
+### Product Reviews Spam Detection
+
+**Description:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Short Description of the Project <br>
+**Challenge :**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; The first problem encountered was solved by this solution <be>
+
+
+## Machine Learning
+
+### Algae Count Prediction 
+
+**Description:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Short Description of the Project <br>
+**Challenge :**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; The first problem encountered was solved by this solution <be>
+
+
+### Customer Segmentation using UMAP
+
+**Description:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Short Description of the Project <br>
+**Challenge :**<br>
+&nbsp;&nbsp;&nbsp;&nbsp; The first problem encountered was solved by this solution <be>
+
+
+<!--
 **Table of Contents**
 
  - [Machine Learning](#machine-learning)
@@ -49,3 +111,4 @@ The following are the tools and frameworks I have used in building my Projects: 
 &nbsp;&nbsp;&nbsp;&nbsp; The first problem encountered was solved by this solution <br>
 
 [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Bike%20Demand%20Prediction%20Image%201-min.jpg" width = 500 height = 300/>]
+-->
