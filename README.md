@@ -1,15 +1,16 @@
 <h1 align = "center">👋 Hi there, I'm Mark Jayson 👋</h1>  
 
 
-### About me:  
+## About me:
 
-* 👨‍💻 **Data Scientist** by profession, leveraging data to drive insights and solutions
-* 🎓 Hold a **Bachelors Degree in Computer Engineering** at **Mapúa University**,
+* 👨‍💻 **Data Scientist** by profession, leveraging data to drive insights and solutions.
+* 📜 Holds a **Bachelors Degree in Computer Engineering** from **Mapúa University** 🐦,
 * 🌟 Passionate about all things programming and technology.
 * 🧠 Currently immersed in the fascinating world of **Machine Learning** and **Deep Learning**.
-* 👨‍💻 My hobby is coding, which become my job and now I don't have any other hobby 😅
+* 👨‍💻 My hobby is coding, which became my job and now I don't have any other hobby 😅
 
-### Connect with me:  
+
+## Connect with me:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markjdc/)
 
