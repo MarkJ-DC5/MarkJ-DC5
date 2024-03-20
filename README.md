@@ -44,7 +44,7 @@ Note: This section is still being constructed. If you would like more informatio
 > **Keywords**: Deep Learning | Computer Vision | Convolutional Neural Network (CNN) | HAM10000 | Pre-Augmentation | Transfer learning | EfficientNetV2 | Soft-Attention | [View Source](https://github.com/MarkJ-DC5)
 >
 
-* **Skin cancer is the most widespread form of cancer**, with melanoma being its deadliest variant, responsible for 75% of skin cancer-related deaths. Early detection is paramount for effective treatment and positive outcomes.
+* **[Skin cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6804807/) is the most widespread form of cancer**, with melanoma being its deadliest variant, responsible for 75% of skin cancer-related deaths. Early detection is paramount for effective treatment and positive outcomes.
 
 * In this project, I developed a ***Deep Convolutional Neural Network (CNN) Model*** capable of classifying ***7 types of skin cancer***, achieving an ***87% accuracy*** and demonstrating strong class discrimination with an ***0.97 AUC***.
 
@@ -53,23 +53,6 @@ Note: This section is still being constructed. If you would like more informatio
 * ***Transfer learning*** techniques were employed to achieve optimal performance while minimizing training time. [EfficientNetV2](https://arxiv.org/abs/2104.00298) was the chosen pre-trained CNN architecture due to striking the *best balance between model performance and hardware usage*, as determined through testing.
 
 * Additionally, the concept of [Soft-Attention](https://arxiv.org/pdf/2105.03358.pdf), based on the study of Datta et al., was implemented to ***visualize the area of focus of model*** when identifying its class.
-
-
-### Skin Cancer Classification
-
-> **Keywords**: Deep Learning | Computer Vision | Convolutional Neural Network (CNN) | HAM10000 | Pre-Augmentation | Transfer learning | EfficientNetV2 | Soft-Attention | [View Source](https://github.com/MarkJ-DC5)
->
-
-* **Skin cancer is the most widespread form of cancer**, with melanoma being its deadliest variant, responsible for 75% of skin cancer-related deaths. Early detection is paramount for effective treatment and positive outcomes.
-
-* In this project, I developed a ***Deep Convolutional Neural Network (CNN) Model*** capable of classifying ***7 types of skin cancer***, achieving an ***87% accuracy*** and demonstrating strong class discrimination with an ***0.97 AUC***.
-
-* The [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) dataset by Tschandl, P., Rosendahl, C., & Kittler, H., consisting of 10,015 dermoscopic images, was used for model training and validation. ***Downsampling and Pre-Augmentation*** were performed to address the dataset's significant imbalance.
-
-* ***Transfer learning*** techniques were employed to achieve optimal performance while minimizing training time. [EfficientNetV2](https://arxiv.org/abs/2104.00298) was the chosen pre-trained CNN architecture due to striking the *best balance between model performance and hardware usage*, as determined through testing.
-
-* Additionally, the concept of [Soft-Attention](https://arxiv.org/pdf/2105.03358.pdf), based on the study of Datta et al., was implemented to ***visualize the area of focus of model*** when identifying its class.
-
 
 <!-- ### Laboratory Apparatus Classification  -->
 
@@ -79,6 +62,9 @@ Note: This section is still being constructed. If you would like more informatio
 
 ## Natural Language Processing
 ### Amazon Product Review Spam Detection
+
+* In today's world, online shopping has become incredibly common, reshaping global commerce and expected to generate [$3.2 trillion in revenue by 2024](https://www.statista.com/outlook/emo/ecommerce/worldwide). ***[93%](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.865702/full) of consumers states that their purchasing decisions are heavily influenced by reviews***, there is a clear ***need for a system capable of detecting false or spam reviews*** to safeguard genuine feedback and enable informed choices.
+  
 ### Twitter Comment Polarity Prediction 
 
 
